@@ -63,3 +63,9 @@ Follow the instructions in the documentation to get started:
 # License
 
 The Capter CLI is provided under the [MIT License](http://http//opensource.org/licenses/mit-license.php). See LICENSE for details.
+
+
+# 修改
+
+- [ ] 控制台日志输出简化、详细日志写入 error.log
+- [ ] 支持执行单个文件或者 API
